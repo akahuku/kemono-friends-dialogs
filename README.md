@@ -1,1 +1,3 @@
-# kemono-friends-dialogs
+# けものフレンズの台詞起こし
+
+* [第1話 さばくちほー](01.md)
